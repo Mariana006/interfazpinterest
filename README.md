@@ -8,7 +8,7 @@ Se enfoca en replicar la apariencia visual de Pinterest,ofreciendo una experienc
 * **Diseño Responsive:** Adaptable a diferentes tamaños de pantalla para una experiencia de usuario óptima en dispositivos móviles y de escritorio.
 * **Interfaz de usuario Intuitiva:** Inspirada en Pinterest ,coun una navegación fácil y accesible.
 * **Interacciones Dinámicas:** Efectos visibles para elementos interactivos con botones y enlaces.
-* **Iconografía y Estilos modernos:** Uso de la biblioteca de iconos de material Desing y estilos CSS.😊😊
+* **Iconografía y Estilos modernos:** Uso de la biblioteca de iconos de material Desing y estilos CSS.😊
 
 ### Tecnologías Utilizadas 
 + **HTML5:** Para la estructura básica del sitio.
@@ -16,6 +16,9 @@ Se enfoca en replicar la apariencia visual de Pinterest,ofreciendo una experienc
 +  **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
+![Demo](imagen/pinterest_script.png)
+
+### Contacto
 SI te gustaria colaborar en un proyecto , escribime por [LinkedIn](https://mx.linkedin.com/)
 
   

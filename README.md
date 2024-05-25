@@ -19,6 +19,6 @@ Se enfoca en replicar la apariencia visual de Pinterest,ofreciendo una experienc
 ![Demo](imagen/pinterest_script.png)
 
 ### Contacto
-SI te gustaria colaborar en un proyecto , escribime por [LinkedIn](https://mx.linkedin.com/)
+SI te gustaria colaborar en un proyecto , escribime por [LinkedIn](www.linkedin.com/in/mariana-aguilar-s)
 
   
